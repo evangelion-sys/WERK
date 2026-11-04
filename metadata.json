@@ -1,0 +1,8 @@
+{
+  "name": "WERK",
+  "description": "A premium library of 15,000 verified open-source GitHub repositories partitioned into three star tiers (1K+, 5K+, 10K+) across 40 specialized categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

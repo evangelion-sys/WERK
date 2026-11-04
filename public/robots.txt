@@ -1,0 +1,8 @@
+# WERK — Curated Software Repository Library by KERNEL.dev
+# Canonical Production: https://werk.kernel.dev
+
+User-agent: *
+Allow: /
+
+# Canonical XML Sitemap
+Sitemap: https://werk.kernel.dev/sitemap.xml
